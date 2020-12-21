@@ -21,7 +21,8 @@ At the end of the elections:
  3. Raymon Anthony Doane: 3.1% (11,606)
 
 ## Challenge Overview
-
+Getting the counties data and making sure the codes work 
+on command promt was little challenging. 
 
 
 
