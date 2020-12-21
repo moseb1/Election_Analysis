@@ -27,3 +27,5 @@ on command promt was little challenging.
 
 
 ## Challenge Summary
+Denver had the highest turn out and Diana DeGette
+won the election with 74% of the votes
